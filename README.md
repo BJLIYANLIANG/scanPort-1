@@ -1,5 +1,5 @@
-# 原项目
-https://github.com/xs25cn/scanPort
+# 项目说明
+原项目地址https://github.com/xs25cn/scanPort
 
 修改：
 1.修改了web的UI页面，更加简洁
